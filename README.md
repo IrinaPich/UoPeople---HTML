@@ -1,7 +1,6 @@
 # UoPeople---HTML
 Programming Assignment
-1. Create an HTML document that displays the numbers 1
-- 10, each number being a di"erent color.
+1. Create an HTML document that displays the numbers 1-10, each number being a different color.
 2. Create an HTML document that displays the squares of
 the numbers 1 - 10. Each number should be on a
 separate line, next to it the number 2 superscripted, an
@@ -23,9 +22,9 @@ Metrpolitan, Metropolis 11111
 clicked will jump all the way to the bottom of the page.
 At the bottom of the page there should be a link to
 jump back to the top of the page.
-6. Create links to four di"erent pages on four di"erent
+6. Create links to four different pages on four di"erent
 websites that should all open in a new window
-7. Display !ve di"erent images. Skip two lines between
+7. Display five different images. Skip two lines between
 each image. Each image should have a title
 8. Display an image that has a border of size 2, a width of
 200, and a height of 200.
